@@ -17,3 +17,28 @@ print(nome2,"é uma valente cavaleira, nascida no ano de",ano,"Certa manha",nome
 
 
 "Atividade 3"
+
+
+cidade = "São Paulo"
+
+
+cidade = "Rio de Janeiro"
+
+print(cidade)
+
+"Atividade 4"
+
+variavel_string = "Olá, Mundo!"
+variavel_inteiro = 42
+variavel_float = 3.14
+
+print("variavel é ",variavel_string,"o int é ",variavel_inteiro,"e a float é ",variavel_float,)
+
+"Atividade 5"
+
+frase1 = "fui no"
+frase2 = "Mercado anoite"
+
+print(frase1,frase2)
+
+
